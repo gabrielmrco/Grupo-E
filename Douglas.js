@@ -1,2 +1,1 @@
-let nome = prompt("Qual seu nome?")
-alert("Olá cawboi!" + " " + nome)
+alert("Olá cawboi!")
